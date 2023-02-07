@@ -1,2 +1,11 @@
 # macOS
 .DS_Store
+
+# Dependencies
+node_modules/
+
+# Development
+.env
+.env.*
+!.env.example
+TODO.md
